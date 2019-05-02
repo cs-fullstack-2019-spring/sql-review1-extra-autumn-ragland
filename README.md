@@ -20,3 +20,5 @@ See file contents for database
 12) The field "r_os" is the operating system of the users.
     -- 	Here we would like to know what main system we have (ignore version number), the relevant counts, and the proportion (in percentage).
 
+<hr>
+2 points.
